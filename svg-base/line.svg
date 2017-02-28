@@ -1,0 +1,6 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="200" height="200"
+     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+     <line x1="00" x2="100" y1="00" y2="100" stroke="orange" stroke-width="5"/>
+</svg>

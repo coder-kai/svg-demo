@@ -1,0 +1,6 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="200" height="200"
+     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+     <polyline points="00 00,100 100,200 00, 200 200" stroke="orange" stroke-width="5" fill="transparent"/>
+</svg>

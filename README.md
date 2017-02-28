@@ -15,7 +15,7 @@
 另外还有一些关于SVG打印规格的项目，增加对多页面和颜色管理的支持，但是这项工作已经终止。
 
 ##SVG学习之路
-### 1.svg简单的例子
+### 1.svg简单的例子(:apple:[查看demo点这里](https://holidaying.github.io/SVG-demo/demo/index.html))
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-06fafc8513dd0fb3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ```
@@ -52,7 +52,7 @@ embed data="image.svg" type="image/svg+xml"></embed>
 background:url(image.svg);
 
  ```
- 
+
 > 代码如下
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-88a848a5c3d096bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 

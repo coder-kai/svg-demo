@@ -52,7 +52,9 @@ embed data="image.svg" type="image/svg+xml"></embed>
 background:url(image.svg);
 
  ```
+ 
 > 代码如下
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-88a848a5c3d096bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 > 显示结果
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-361ef8c4ac693b01.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

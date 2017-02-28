@@ -4,7 +4,7 @@
 * 2.viewBox的值大于width和height的值，内容区域在viewBox之内
 
 ## 2.svg正方形属性
-* 1.标签rect <rect x="0" y="0" width="100" height="100" fill="#2d87f9" stroke="#ccc" stroke-width="5" rx="5" ry="5"/>
+* 1.标签rect \<rect x="0" y="0" width="100" height="100" fill="#2d87f9" stroke="#ccc" stroke-width="5" rx="5" ry="5"/>
 * 2.svg是网格系统，左上角为圆心坐标（0,0）其中x,y相对于左上角的位置坐标，width和height是高度。
 * 3.fill是填充的背景色，stroke是边线颜色，cx，cy分别是圆角
 

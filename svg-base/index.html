@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>svg-rect</title>
+
 </head>
 <body>
 	<h1>正方形</h1>
@@ -18,4 +19,11 @@
 	<h1>多边形</h1>
 	<object data="polygon.svg" type="image/svg+xml"></object>
 </body>
+<script src="https://cdn.bootcss.com/jquery/3.1.1/jquery.js"></script>
+<script>
+	$.getJSON("https://holidaying.github.io/SVG-demo/svg-base/text.json",function(data) {
+		console.log(data);
+
+	})
+</script>
 </html>

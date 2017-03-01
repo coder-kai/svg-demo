@@ -1,4 +1,4 @@
-# SVG-demo
+# 1.SVG-demo
 ## 1.svg中的viewBox属性，和width及height之间的影响
 * 1.viewBox的值大于width和height的值，内容区域在width和height之内
 * 2.viewBox的值大于width和height的值，内容区域在viewBox之内
@@ -37,3 +37,27 @@
 * 1.\<path d="M10 10 H 90 V 90 H 10 L 10 10"/>
 * 2.存在多组值，自动回折回起点
 * 3.fill是填充的背景色，stroke是边线颜色。
+
+# 2.SVG的元素参考（好多有没有）[参考地址](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Element)
+
+![](http://upload-images.jianshu.io/upload_images/2604175-a9e4fb3e68f7c658.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 3.SVG的属性参考（好多有没有）[参考地址](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Attribute)
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-ea42d52690969538.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 4.svg文档对象模型  [参考地址](https://developer.mozilla.org/zh-CN/docs/Web/API/Document_Object_Model#SVG_interfaces)
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-db8fa6dc688aa8c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 5.svg文档对象模型  [参考地址](https://developer.mozilla.org/zh-CN/docs/Web/API/Document_Object_Model#SVG_interfaces)
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-db8fa6dc688aa8c5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+# 6.svg在html中的使用效果 [参考地址](https://developer.mozilla.org/zh-CN/docs/Web/SVG/Applying_SVG_effects_to_HTML_content)
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/2604175-2d65c9a9d5f98614.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+

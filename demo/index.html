@@ -11,4 +11,20 @@
     <iframe src="demo1.svg" height="200px" width="300px"></iframe>
     <div style="background:url('./demo1.svg');height:200px;width:300px"></div>
 </body>
+<script>
+	Array.prototype.filterNUll = Array.prototype.filterNUll|| function () {
+		debugger
+		if(this.length==0)
+		{
+			return;
+		}
+		else
+		{
+			return this.filter(function(item){return item!=null&&item!="null"})
+		}
+	}
+	var a=[2,"null",null];
+	var b=a.filterNUll();
+	console.log(b);
+</script>
 </html>

@@ -1,5 +1,5 @@
 # SVG-demo
-一个不了解的svg的MDN学习之路 [查看demo点这里](https://holidaying.github.io/svg-demo/mybox/index.html)[https://holidaying.github.io/SVG-demo/mybox/index.html]
+一个不了解的svg的MDN学习之路 [查看demo点这里](https://holidaying.github.io/svg-demo/mybox/index.html)[https://holidaying.github.io/svg-demo/mybox/index.html]
 ## 概念
 > 可缩放矢量图形(svg),可缩放矢量图形是基于可扩展标记语言（标准通用标记语言的子集），用于描述二维矢量图形的一种图形格式。它由万维网联盟制定，是一个开放标准。
 > 2003年1月14日，成为W3C制定的标准。

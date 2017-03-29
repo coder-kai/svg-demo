@@ -251,7 +251,7 @@ function drawStars() {
 executeFrame();
 
 $(function() {
-    $.getJSON('https://holidaying.github.io/SVG-demo/svg-base/text.json').then(function(data) {
+    $.getJSON('https://holidaying.github.io/svg-demo/svg-base/text.json').then(function(data) {
         for (var i = 0; i < data.message.length; i++) {
             $(".swiper-wrapper").append('<div class="swiper-slide"><span>' + data.message[i].poetry + '</span></div>');
         }
